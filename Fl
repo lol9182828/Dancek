@@ -1035,7 +1035,7 @@ Empyrean = Start({
 	BreakJointsDelay = 0.255,
 	ClickFling = true,
 	DefaultFlingOptions = {
-		HatFling = true,--{ MeshId="", TextureId = ""},
+		HatFling = true,--{ MeshId="129920878571288", TextureId = "85941947326565"},
 		Highlight = true,
 		PredictionFling = true,
 		Timeout = 1,
